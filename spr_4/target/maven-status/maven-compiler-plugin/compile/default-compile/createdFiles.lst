@@ -1,9 +1,1 @@
-home/login/domain/User$UserBuilder.class
-home/login/domain/User.class
-home/login/Application.class
 home/login/SecurityConfig.class
-home/login/services/UserService.class
-home/login/web/MainController.class
-home/login/domain/Role.class
-home/login/persistence/UserDao.class
-home/login/domain/UserField.class
